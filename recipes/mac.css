@@ -1,0 +1,11 @@
+body {
+    font-family: "Times New Roman",sans-serif;
+    background-color: hsl(157, 100%, 50%);
+    color:gray;
+}
+
+p {
+    font-size: 19px;
+    text-align: justify;
+    
+}
