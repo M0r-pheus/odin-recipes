@@ -1,0 +1,20 @@
+body {
+    background-color: hsl(45,40%,80%);
+    color: black;
+    font-family: "Times New Roman", cursive 
+    
+}
+
+ p {
+    text-align: justify;
+    font-size:19px;
+    
+}
+
+li {
+    font-size: 19px;
+}
+
+.section {
+    font-size: 22px;
+}
